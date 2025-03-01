@@ -2,7 +2,7 @@
 
 ## Seja bem vindo ao meu perfil! 👋
 
-Atualmente sou Assistente de Planejamento na Softys e estudante de Ciência da Computação. Tenho formação técnica em Eletroeletrônica pelo Senai, onde tive meu primeiro contato com análise e programação. Estou sempre buscando aprender e evoluir minhas habilidades.
+Atualmente sou **Assistente de Planejamento** na **Softys** e estudante de **Ciência da Computação**. Tenho formação técnica em **Eletroeletrônica** pelo **Senai**, onde tive meu primeiro contato com análise e programação. Estou sempre buscando aprender e evoluir minhas habilidades.
 
 ## 📫 Como me encontrar:
 
